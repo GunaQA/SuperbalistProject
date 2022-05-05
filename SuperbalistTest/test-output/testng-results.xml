@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97357" started-at="2022-05-03T06:39:24Z" finished-at="2022-05-03T06:41:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97357" started-at="2022-05-03T06:39:24Z" finished-at="2022-05-03T06:41:01Z">
+      <class name="com.sup.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sup.qa.testcases.LoginPageTest@1d16f93d]" name="setUp" is-config="true" duration-ms="18187" started-at="2022-05-03T06:39:24Z" finished-at="2022-05-03T06:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="urlTest()[pri:0, instance:com.sup.qa.testcases.LoginPageTest@1d16f93d]" name="urlTest" duration-ms="893" started-at="2022-05-03T06:39:42Z" finished-at="2022-05-03T06:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method status="PASS" signature="quittingBrowser()[pri:0, instance:com.sup.qa.testcases.LoginPageTest@1d16f93d]" name="quittingBrowser" is-config="true" duration-ms="1212" started-at="2022-05-03T06:39:43Z" finished-at="2022-05-03T06:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quittingBrowser -->
+      </class> <!-- com.sup.qa.testcases.LoginPageTest -->
+      <class name="com.sup.qa.testcases.UserPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="setUp" is-config="true" duration-ms="15886" started-at="2022-05-03T06:39:44Z" finished-at="2022-05-03T06:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageCheck()[pri:1, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="homePageCheck" duration-ms="1673" started-at="2022-05-03T06:40:00Z" finished-at="2022-05-03T06:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageCheck -->
+        <test-method status="PASS" signature="quittingBrowser()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="quittingBrowser" is-config="true" duration-ms="1411" started-at="2022-05-03T06:40:02Z" finished-at="2022-05-03T06:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quittingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="setUp" is-config="true" duration-ms="16145" started-at="2022-05-03T06:40:03Z" finished-at="2022-05-03T06:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cartLinkCheck()[pri:2, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="cartLinkCheck" duration-ms="10618" started-at="2022-05-03T06:40:19Z" finished-at="2022-05-03T06:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartLinkCheck -->
+        <test-method status="PASS" signature="quittingBrowser()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="quittingBrowser" is-config="true" duration-ms="1437" started-at="2022-05-03T06:40:30Z" finished-at="2022-05-03T06:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quittingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="setUp" is-config="true" duration-ms="17819" started-at="2022-05-03T06:40:32Z" finished-at="2022-05-03T06:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="wishListLinkCheck()[pri:3, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="wishListLinkCheck" duration-ms="10692" started-at="2022-05-03T06:40:49Z" finished-at="2022-05-03T06:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListLinkCheck -->
+        <test-method status="PASS" signature="quittingBrowser()[pri:0, instance:com.sup.qa.testcases.UserPageTest@67b92f0a]" name="quittingBrowser" is-config="true" duration-ms="1283" started-at="2022-05-03T06:41:00Z" finished-at="2022-05-03T06:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quittingBrowser -->
+      </class> <!-- com.sup.qa.testcases.UserPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
